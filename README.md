@@ -11,7 +11,7 @@ Changes made below (and eventually github once we publish it) will be automatica
 # Accepting Cryptocurrency Donations: A How-To Guide
 *Helping charities and non-profits understand and accept Bitcoin, Ethereum, and other token-based assets*
 
-2019 [CivicTechYYC](https://CivicTechYYC.ca)
+2020 [CivicTechYYC](https://CivicTechYYC.ca)
 
 ---
 
@@ -315,11 +315,26 @@ Revision History
 
 1. July 2019 - skeleton outline
 2. December 2019 - first draft (no images yet)
+3. February 2020 - link to github / documentation site generator
 
-###### tags: `Blockchain` `Charity` `Donation`
 
 References
 ---
+
+<!-- for readability in the document generator -->
+
+1. https://openparliament.ca/bills/42-1/C-452/
+2. https://blockchainflashnews.com/blockchain-is-like-turning-a-chicken-mcnugget-back-into-a-chicken/
+3. https://en.wikipedia.org/wiki/Cryptocurrency
+4. https://cointelegraph.com/ico-101/what-is-ico
+5. https://en.wikipedia.org/wiki/Tether_(cryptocurrency)
+6. https://en.wikipedia.org/wiki/Cryptocurrency_wallet
+7. https://coinsutra.com/how-to-create-brain-wallet/
+8. https://blockgeeks.com/guides/paper-wallet-guide/
+9. https://medium.com/@pauljlamb/crypto-philanthropy-how-bitcoin-and-blockchain-are-disrupting-the-philanthropic-sector-80716dc7cb68
+10. https://pineapplefund.org/
+
+<!-- notation for proper linking -->
 
 [^1]: https://openparliament.ca/bills/42-1/C-452/
 [^2]: https://blockchainflashnews.com/blockchain-is-like-turning-a-chicken-mcnugget-back-into-a-chicken/
