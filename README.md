@@ -15,13 +15,6 @@ Changes made below (and eventually github once we publish it) will be automatica
 
 ---
 
-
-**Table of Contents**
-<!-- gets inserted automatically -->
-[TOC]
-
----
-
 Introduction
 ---
 So, this thing called Bitcoin and all those other *something*-coins seem pretty weird and scary, amiright? 
@@ -71,7 +64,7 @@ According to cryptogiving.ca "Many charities in Canada that accept donations of 
 
 Cryptogiving.ca goes on to note that cryptocurrencies are not exempt from capital gains taxes when those gains are given to charity. 
 
-A private members bill was introduced in Canadian Parliament in May 2019 to address this but it did not pass.[^fn1]
+A private members bill was introduced in Canadian Parliament in May 2019 to address this but it did not pass.[^1]
 
 If you would like to contribute research in this area feel free to submit a Pull Request or just get in touch via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdIwUPWLg7bLb7NGEPpNsPOnyclKPJrP7POGu0Z4TssczyQXQ/viewform?usp=sf_link).
 
@@ -106,7 +99,7 @@ In this way there:
 
 * is no single point of failure;
 * is no middle-person collecting fees or delaying the transaction (ever try to send money or get paid from a bank in another country? It's not fun); and,
-* is a record of all transactions made in that currency, and, being available to all, and being based in cryptography, makes it very hard to cheat the system and 'double-spend' the currency (Don Tapscott equates this challenge to trying to turn a McNugget back into a chicken[^fn2]).
+* is a record of all transactions made in that currency, and, being available to all, and being based in cryptography, makes it very hard to cheat the system and 'double-spend' the currency (Don Tapscott equates this challenge to trying to turn a McNugget back into a chicken[^2]).
 
 Different cryptocurrencies have different ways of accomplishing this, but they almost all designed around the concept of a 'blockchain', where each new addition to the chain is based on the one before. Here's a terrific [visual example](https://anders.com/blockchain/) and hands-on demo of the principle at work.
 
@@ -129,7 +122,7 @@ Here's a rundown of the current major currencies and/or 'token-based assets.'
 
 #### Bitcoin
 
-Bitcoin is widely recognized as the first decentralized cryptocurrency.[^fn3] In 2017 the value of a single Bitcoin rose to over $20000 USD. The price of Bitcoin, combined with the relatively low capacity of the Bitcoin network to process transactions, has led to it being referred to as 'digital gold' - something that isn't necessarily practical for everyday purchases.
+Bitcoin is widely recognized as the first decentralized cryptocurrency.[^3] In 2017 the value of a single Bitcoin rose to over $20000 USD. The price of Bitcoin, combined with the relatively low capacity of the Bitcoin network to process transactions, has led to it being referred to as 'digital gold' - something that isn't necessarily practical for everyday purchases.
 
 #### Bitcoin-like alt-coins
 
@@ -146,7 +139,7 @@ Ethereum includes not only the token but a layer of logic that can be programmed
 
 That said, the most common use of Ethereum smart contracts has been to create other types of tokens. There are thousands of them, and can be used as currency, Security Tokens, Utility Tokens, and Non-fungible Tokens as mentioned above. 
 
-Many companies have issued and sold Ethereum-based tokens as a means to raise money, not as shares per se, but on the promise of being able to use those tokens to purchase services from that company in the future, or to sell them to others who wish to do the same, presumably for a profit. This practice is colloquially known as an 'Initial Coin Offering' or ICO. Many of these ICOs have gone on to launch successful ventures and many others have been outright scams.[^fn4]
+Many companies have issued and sold Ethereum-based tokens as a means to raise money, not as shares per se, but on the promise of being able to use those tokens to purchase services from that company in the future, or to sell them to others who wish to do the same, presumably for a profit. This practice is colloquially known as an 'Initial Coin Offering' or ICO. Many of these ICOs have gone on to launch successful ventures and many others have been outright scams.[^4]
 
 #### EOS/Ripple/TRON/IOTA
 
@@ -160,7 +153,7 @@ This relative instability, when coupled with wild pricing fluctuations have kept
 
 And that's where stablecoins come into the picture. A stablecoin is a generic term for a cryptocurrency with a value that is pegged to some other kind of asset, like a fiat currency, in which case crypto unit is generally equal to one dollar of fiat. [DAI](https://makerdao.com) is one of the most popular examples at this time, along with [USD Coin](https://www.coinbase.com/usdc). 
 
-Not all stablecoins have been able to maintain their peg, and some have turned out to be quite controversial[^fn5]. From a donations perspective DAI is well-supported and will likely be a safe bet for the time being.
+Not all stablecoins have been able to maintain their peg, and some have turned out to be quite controversial[^5]. From a donations perspective DAI is well-supported and will likely be a safe bet for the time being.
 
 #### Non-fungible Tokens (NFT)
 
@@ -178,7 +171,7 @@ As mentioned in the introduction, to accept cryptocurrency donations you're goin
 
 To quote Wikipedia:
 
-> A cryptocurrency wallet is a device, physical medium, program or a service which stores the public and/or private keys and can be used to track ownership, receive or spend cryptocurrencies. The cryptocurrency itself is not in the wallet. In case of bitcoin and cryptocurrencies derived from it, the cryptocurrency is decentrally stored and maintained in a publicly available ledger called the blockchain.[^fn6]
+> A cryptocurrency wallet is a device, physical medium, program or a service which stores the public and/or private keys and can be used to track ownership, receive or spend cryptocurrencies. The cryptocurrency itself is not in the wallet. In case of bitcoin and cryptocurrencies derived from it, the cryptocurrency is decentrally stored and maintained in a publicly available ledger called the blockchain.[^6]
 
 That last part is really important - **the wallet's keys are the thing that proves a unit of cryptocurrency on the blockchain belongs to you**. 
 
@@ -214,7 +207,7 @@ Best practice is to avoid using an exchange wallet for long term 'storage' of yo
 
 #### Cold Wallets
 
-If a hot wallet is one that is connected to the internet it would follow that a cold wallet is one that, well, isn't. And you'd be right. It's a wallet where the private key isn't accessible to hackers. There are generally two types of cold wallets - hardware and paper wallets. There's a third, called a 'brain wallet', but that basically means you're holding the private keys in your head. We wouldn't recommend that because humans are pretty bad at creating strong passwords as it is.[^fn7]
+If a hot wallet is one that is connected to the internet it would follow that a cold wallet is one that, well, isn't. And you'd be right. It's a wallet where the private key isn't accessible to hackers. There are generally two types of cold wallets - hardware and paper wallets. There's a third, called a 'brain wallet', but that basically means you're holding the private keys in your head. We wouldn't recommend that because humans are pretty bad at creating strong passwords as it is.[^7]
 
 ##### Hardware Wallets
 
@@ -222,7 +215,7 @@ Hardware wallets typically take the form of a USB key that is protected by some 
 
 ##### Paper Wallets
 
-Paper wallets are regarded by some as the safest form of cold storage. It basically involves includes printing out your public and private keys on a piece of paper (usually as QR codes) which you can store and save in a secure place. It's generally regarded as safer because all you need to do is not lose that piece of paper. Uh, yeah. Speaking from experience that's harder than it sounds, but on the other hand, there's no risk of hacking or malware.[^fn8]
+Paper wallets are regarded by some as the safest form of cold storage. It basically involves includes printing out your public and private keys on a piece of paper (usually as QR codes) which you can store and save in a secure place. It's generally regarded as safer because all you need to do is not lose that piece of paper. Uh, yeah. Speaking from experience that's harder than it sounds, but on the other hand, there's no risk of hacking or malware.[^8]
 
 #### Adding a Custom or Non-Fungible Token to your wallet
 
@@ -279,7 +272,7 @@ Binance, Poloniex and the long tail of exchanges and again are likely only neede
 Crypto-philanthropy
 ---
 
-Even though this guide is about how to accept direct cryptocurrency donations, there are alternatives that are beginning to emerge. Some would even suggest that cryptocurrencies are disrupting the current system of giving.[^fn9]
+Even though this guide is about how to accept direct cryptocurrency donations, there are alternatives that are beginning to emerge. Some would even suggest that cryptocurrencies are disrupting the current system of giving.[^9]
 
 As mentioned previously, one of the defining characteristics of cryptocurrencies is a public ledger of all transaction. This creates a revolutionary approach to financial transparency and the tracking of philanthropic outcomes.
 
@@ -293,7 +286,7 @@ You may wish to alternately issue a coin of your own creation and then sell it o
 
 The Bitcoin boom of 2017 brought a lot of new wealth in the world, and like those who made fortunes before them the people receiving these windfalls have been making substantial donations to philanthropic causes. 
 
-The Pineapple Fund was one such foundation established as "an experiment in philanthropy with cryptocurrency wealth".[^fn10] All in all, over $55 million dollars was anonymously, yet transparently, donated to 60 different charities.
+The Pineapple Fund was one such foundation established as "an experiment in philanthropy with cryptocurrency wealth".[^10] All in all, over $55 million dollars was anonymously, yet transparently, donated to 60 different charities.
 
 #### Browser Mining
 
@@ -328,14 +321,14 @@ Revision History
 References
 ---
 
-[^fn1]: https://openparliament.ca/bills/42-1/C-452/
-[^fn2]: https://blockchainflashnews.com/blockchain-is-like-turning-a-chicken-mcnugget-back-into-a-chicken/
-[^fn3]:https://en.wikipedia.org/wiki/Cryptocurrency
-[^fn4]: https://cointelegraph.com/ico-101/what-is-ico
-[^fn5]: https://en.wikipedia.org/wiki/Tether_(cryptocurrency)
-[^fn6]: https://en.wikipedia.org/wiki/Cryptocurrency_wallet
-[^fn7]: https://coinsutra.com/how-to-create-brain-wallet/
-[^fn8]: https://blockgeeks.com/guides/paper-wallet-guide/
-[^fn9]: https://medium.com/@pauljlamb/crypto-philanthropy-how-bitcoin-and-blockchain-are-disrupting-the-philanthropic-sector-80716dc7cb68
-[^fn10]: https://pineapplefund.org/
+[^1]: https://openparliament.ca/bills/42-1/C-452/
+[^2]: https://blockchainflashnews.com/blockchain-is-like-turning-a-chicken-mcnugget-back-into-a-chicken/
+[^3]:https://en.wikipedia.org/wiki/Cryptocurrency
+[^4]: https://cointelegraph.com/ico-101/what-is-ico
+[^5]: https://en.wikipedia.org/wiki/Tether_(cryptocurrency)
+[^6]: https://en.wikipedia.org/wiki/Cryptocurrency_wallet
+[^7]: https://coinsutra.com/how-to-create-brain-wallet/
+[^8]: https://blockgeeks.com/guides/paper-wallet-guide/
+[^9]: https://medium.com/@pauljlamb/crypto-philanthropy-how-bitcoin-and-blockchain-are-disrupting-the-philanthropic-sector-80716dc7cb68
+[^10]: https://pineapplefund.org/
 
