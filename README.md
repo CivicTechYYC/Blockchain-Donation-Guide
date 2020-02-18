@@ -229,6 +229,10 @@ We've already mentioned Coinbase, which is one of the most broadly used crypto e
 
 Once you have created an account on Coinbase Commerce, create a checkout using the 'donation' option. During this process you will have the opportunity to include a brief description and upload the logo of your organization.
 
+![Coinbase_Commerce-Address](https://user-images.githubusercontent.com/2702107/74698508-49603f00-51bb-11ea-86d2-da5f47127725.png)
+
+*Fig. X: The Donor's final screen in Coinbase Commerce looks like this (credit: Coinbase Commerce)*
+
 Finally, make potential donors aware that you are accepting cryptocurrency donations by **sharing or embedding** the link to your Coinbase checkout from a website you control (it occurs that even though Coinbase's procedures for identifying customers are fairly rigourous it would be possible for someone to impersonate your organization in a manner similar to phishing scams).
 
 From Coinbase Commerce's administrative interface you are able to review your donations and account balances, as well as initiate withdrawal of your donated crypto to other destinations.
