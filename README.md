@@ -8,7 +8,7 @@ Changes made below (and eventually github once we publish it) will be automatica
 
 -->
 
-# Accepting Cryptocurrency Donations: A How-To Guide
+# Every Bit Counts: Accepting Cryptocurrency Donations
 *Helping charities and non-profits understand and accept Bitcoin, Ethereum, and other token-based assets*
 
 2020 [CivicTechYYC](https://CivicTechYYC.ca)
@@ -21,9 +21,20 @@ So, this thing called Bitcoin and all those other *something*-coins seem pretty 
 
 Never mind that as a species we humans (allegedly) started out exchanging actual things of value to our survival, like one cow for seven goats, and then moved on to exchange a lump of shiny gold metal for that cow or goat, or maybe some labor, or maybe debt. Why? Because the metal was hard to get and stood in as a placeholder for the exchange of value (we're neither historians or economists but stay with us here).
 
-As our level of commerce increased we realized it was a little difficult to handle all that gold and instead started printing paper as a placeholder. We had to make sure the paper had all kinds of squiggles and doodads on it that made it hard to copy (but that didn't stop some people from being fooled).
+![mathieu-cheze-UL6pvvxh2RU-unsplash](https://user-images.githubusercontent.com/2702107/74699200-57af5a80-51bd-11ea-9b61-16adafa7458b.jpg)
+
+*Fig.1 Mardi Gras beads. Apparently these little buggers are pretty sought after at the right time and the right place (Credit: Photo by Mathieu Cheze on Unsplash)*
+
+As our level of commerce increased we realized it was a little difficult to handle all that gold and instead started printing paper as a placeholder. We had to make sure the paper had all kinds of squiggles and doodads on it that made it hard to copy (but that didn't stop some people from being deceived).
+
+
+![serge-le-strat-1mvXkXi0MTk-unsplash](https://user-images.githubusercontent.com/2702107/74800593-2dc76800-5291-11ea-8bea-a5899576b36f.jpg)
+*Fig.2 The genuine article. We're sure of it. (Credit: Photo by Serge Le Strat on Unsplash)*
 
 And at a certain point, we all decided to stop fooling ourselves and not worry about whether the paper was a placeholder for the gold or not. The paper could just be its own thing, and as long as we all kept believing in the value of that paper everything would be alright.
+
+![toy-cash-register-2922214_750](https://user-images.githubusercontent.com/2702107/74801098-cf02ee00-5292-11ea-84dd-f86fe5534353.jpg)
+*Fig.3 It's as real as we all believe. (Credit: Photo by annca on Pixabay)*
 
 Once having ascended the pyramid from survival to prosperity, at some point we seemingly decided what good was the paper? All we really needed was the information represented by the paper, and a bunch of authorities like nation states and/or central reserve banks reminding us to believe in the value of that information and to keep us honest. 
 
@@ -50,6 +61,9 @@ This guide is meant to be:
 
 This guide is for anyone looking for donations, but it is geared toward Canadian organizations with options for converting cryptocurrency to Canadian Dollars.
 
+![kat-yukawa-K0E6E0a0R3A-unsplash](https://user-images.githubusercontent.com/2702107/74801433-cb239b80-5293-11ea-9847-11f686d3fda8.jpg)
+*Fig.4 Because yes, every 'bit' counts. (Credit: Photo by Kat Yukawa on Unsplash)*
+
 ### What this guide covers
 
 This guide talks a bit about what cryptocurrencies are, why they're different from regular currency (referred to as 'fiat' currency), how to get yourself set up to accept donations, and how to convert the crypto donations you get into Canadian Dollars. 
@@ -62,11 +76,9 @@ We're not lawyers, and this isn't legal or tax advice regarding rules around acc
 
 According to cryptogiving.ca "Many charities in Canada that accept donations of cryptocurrencies also provide tax receipts for charitable donations, meaning that you can claim the deduction on your income taxes." This would imply that if your charity is registered and can issue tax receipts for other kinds of donations that it may be able to do so for crypto donations as well, but again, this isn't something we've confirmed and you'd want to seek out the advice of a professional.
 
-Cryptogiving.ca goes on to note that cryptocurrencies are not exempt from capital gains taxes when those gains are given to charity. 
+From a donor's perspective, Cryptogiving.ca goes on to note that cryptocurrencies are not exempt from capital gains taxes when those gains are given to charity. A private members bill was introduced in Canadian Parliament in May 2019 to address this but it did not pass.[^1]
 
-A private members bill was introduced in Canadian Parliament in May 2019 to address this but it did not pass.[^1]
-
-If you would like to contribute research in this area feel free to submit a Pull Request or just get in touch via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdIwUPWLg7bLb7NGEPpNsPOnyclKPJrP7POGu0Z4TssczyQXQ/viewform?usp=sf_link).
+If you would like to contribute research in this area feel free to sign in and edit on HackMD, submit a Pull Request on GitHub, or just get in touch via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdIwUPWLg7bLb7NGEPpNsPOnyclKPJrP7POGu0Z4TssczyQXQ/viewform?usp=sf_link).
 
 #### Distributed Apps
 
@@ -82,14 +94,24 @@ We're also not going to talk too much about the world of [Distributed Applicatio
 6. On the exchange, **trade** the cryptocurrency for Canadian Dollars; and,
 7. Issue a receipt for the Canadian Dollar value similar to how your organization would handle other asset donations.
 
+![Coinbase_Commerce-Checkout-Setup1](https://user-images.githubusercontent.com/2702107/75004058-28038b00-5427-11ea-875f-3c4ee829db8e.jpg)
+
+*Fig. 5: Setting up a 'Checkout' in Coinbase Commerce (Credit: Coinbase Commerce)*
+
 What is a cryptocurrency?
 ---
 
 The first part of that word, 'crypto', refers to the principles of cryptography, meaning that information can be securely protected and provably unique. That's a big part of what we try to do with plain old-fashioned money; protect it from being stolen, and prove that it isn't counterfeit. 
 
+![mauro-sbicego-4hfpVsi-gSg-unsplash](https://user-images.githubusercontent.com/2702107/74998437-f7672580-5415-11ea-9b53-2760ae49a5c2.jpg)
+*Fig. 6: The Enigma Machine, used to send encrypted messages back in World War II (Credit: Photo by Mauro Sbicego on Unsplash)*
+
 Cryptography is the same thing that secures our online purchases and makes sure that it is really difficult to eavesdrop on our iMessages. It is based on the idea that two endpoints of a connection are talking in a 'secret code' that only they can understand, and that the endpoints don't need to previously know each other in order to keep that conversation secure. It works on the concept of [public and private keys](https://www.reddit.com/r/explainlikeimfive/comments/tpqjo/eli5_can_someone_please_explain_how_encryption/).
 
 When you use the internet to transfer money in the regular way, the conversation between the payer and the payee is conducted with this encrypted secret code, but the record of that transaction is only held with (and entrusted to) a third party; the bank or the payment processing company that brokered the connection. The authority in this case holds the keys, making sure that you are who you say you are, and that you actually have the balance on your credit card to do the transaction. Other groups also jump in to act as escrows sometimes, like when you buy something off eBay and want to make sure the deal is fair and square.
+
+![erik-mclean-XaDHSBXuVBc-unsplash](https://user-images.githubusercontent.com/2702107/74998996-95a7bb00-5417-11ea-8982-c744911c50d2.jpg)
+*Fig. 7: Centralized servers are like wagon wheels - everything has to pass through the hub (Credit: Photo by Erik Mclean on Unsplash)*
 
 Cryptocurrencies change the game.
 
@@ -101,13 +123,25 @@ In this way there:
 * is no middle-person collecting fees or delaying the transaction (ever try to send money or get paid from a bank in another country? It's not fun); and,
 * is a record of all transactions made in that currency, and, being available to all, and being based in cryptography, makes it very hard to cheat the system and 'double-spend' the currency (Don Tapscott equates this challenge to trying to turn a McNugget back into a chicken[^2]).
 
-Different cryptocurrencies have different ways of accomplishing this, but they almost all designed around the concept of a 'blockchain', where each new addition to the chain is based on the one before. Here's a terrific [visual example](https://anders.com/blockchain/) and hands-on demo of the principle at work.
+![ricardo-gomez-angel-z6CcN8rlftY-unsplash](https://user-images.githubusercontent.com/2702107/75003089-de657100-5423-11ea-989a-a08ad40ebe44.jpg)
+*Fig. 8: Decentralized Networks - less like a wagon wheel, more like a mesh (Credit: Photo by Ricardo Gomez Angel on Unsplash)*
+
+Different cryptocurrencies have different ways of accomplishing this, but they almost all designed around the concept of a 'blockchain', where each new addition to the chain is based on the one before. Anders Brownworth provides a terrific [video example](https://anders.com/blockchain/) and hands-on demo of the principle at work.
+
+![Blockchain_Demo-Anders_Brownworth](https://user-images.githubusercontent.com/2702107/75121292-ebff3e80-564f-11ea-974a-61f9b130c5aa.jpg)
+*Fig. 9: Interactive Blockchain Demo by Anders Brownworth (Credit: Anders Brownworth)
 
 The underlying source code for the network nodes is usually open source and freely available for anyone to view, contribute, and transform into other projects. The blockchains themselves are also publicly viewable through 'blockchain explorers' - here's an [explorer for Bitcoin](https://live.blockcypher.com/btc/). 
 
 Because identical records exist across all the participating nodes in the network, Blockchain projects are also sometimes generically described as 'distributed ledger' technologies. 
 
+![ledger-1428230_1280](https://user-images.githubusercontent.com/2702107/74999890-09e35e00-541a-11ea-8829-2bda2fa8bea3.jpg)
+*Fig. 9: Distributed Ledger Technology - everyone has a copy, with the exact same info, updated simultaneously (Credit: Photo by cspastrik on Pixabay)*
+
 The most well-known way for information to be added to this ledger is by all the computers in a particular blockchain network competing to solve a hard mathematical problem. People participating in this 'Proof of Work' are rewarded with new units of the currency. This process, called 'mining,' is relatively slow, energy-intensive and the subject of some scrutiny for its environmental footprint. Often there are small fees associated with blockchain transactions that are also shared among the miners.  
+
+![750px-Cryptocurrency_Mining_Farm](https://user-images.githubusercontent.com/2702107/75121551-53b68900-5652-11ea-8f2b-864d2a1b45ca.jpg)
+*Fig. 10: A cryptocurrency mining farm. That's a lot of electricity. (Credit: Photo by Marco Krohn on Wikimedia Commons via [Creative Commons Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en))*
 
 But not all cryptocurrencies are the same. Many cryptocurrencies have implemented alternatives to Proof of Work, and as stores or signifiers of value, have taken the form of assets beyond just 'money.' 
 
@@ -120,9 +154,10 @@ In fact, because they're just tokens, they can represent anything. Sometimes tok
 
 Here's a rundown of the current major currencies and/or 'token-based assets.'
 
-#### Bitcoin
+#### :fab fa-bitcoin: Bitcoin
 
 Bitcoin is widely recognized as the first decentralized cryptocurrency.[^3] In 2017 the value of a single Bitcoin rose to over $20000 USD. The price of Bitcoin, combined with the relatively low capacity of the Bitcoin network to process transactions, has led to it being referred to as 'digital gold' - something that isn't necessarily practical for everyday purchases.
+
 
 #### Bitcoin-like alt-coins
 
@@ -139,7 +174,7 @@ Ethereum includes not only the token but a layer of logic that can be programmed
 
 That said, the most common use of Ethereum smart contracts has been to create other types of tokens. There are thousands of them, and can be used as currency, Security Tokens, Utility Tokens, and Non-fungible Tokens as mentioned above. 
 
-Many companies have issued and sold Ethereum-based tokens as a means to raise money, not as shares per se, but on the promise of being able to use those tokens to purchase services from that company in the future, or to sell them to others who wish to do the same, presumably for a profit. This practice is colloquially known as an 'Initial Coin Offering' or ICO. Many of these ICOs have gone on to launch successful ventures and many others have been outright scams.[^4]
+Many companies have issued and sold Ethereum-based tokens as a means to raise money, not as shares per se, but on the promise of being able to use those tokens to purchase services from that company in the future, or to sell them to others who wish to do the same, presumably for a profit. This practice is colloquially known as an 'Initial Coin Offering' or ICO. Many of these ICOs have gone on to launch successful ventures and many others have been colossal scams.[^4]
 
 #### EOS/Ripple/TRON/IOTA
 
@@ -151,7 +186,7 @@ This relative instability, when coupled with wild pricing fluctuations have kept
 
 #### Stablecoins
 
-And that's where stablecoins come into the picture. A stablecoin is a generic term for a cryptocurrency with a value that is pegged to some other kind of asset, like a fiat currency, in which case crypto unit is generally equal to one dollar of fiat. [DAI](https://makerdao.com) is one of the most popular examples at this time, along with [USD Coin](https://www.coinbase.com/usdc). 
+And that's where stablecoins come into the picture. A stablecoin is a generic term for a cryptocurrency with a value that is pegged to some other kind of asset, like a fiat currency, in which case one crypto unit is generally equal to one dollar of fiat. [DAI](https://makerdao.com) is one of the most popular examples at this time, along with [USD Coin](https://www.coinbase.com/usdc). 
 
 Not all stablecoins have been able to maintain their peg, and some have turned out to be quite controversial[^5]. From a donations perspective DAI is well-supported and will likely be a safe bet for the time being.
 
@@ -231,8 +266,6 @@ Once you have created an account on Coinbase Commerce, create a checkout using t
 
 ![Coinbase_Commerce-Address](https://user-images.githubusercontent.com/2702107/74698508-49603f00-51bb-11ea-86d2-da5f47127725.png)
 
-*Fig. X: The Donor's final screen in Coinbase Commerce looks like this (credit: Coinbase Commerce)*
-
 Finally, make potential donors aware that you are accepting cryptocurrency donations by **sharing or embedding** the link to your Coinbase checkout from a website you control (it occurs that even though Coinbase's procedures for identifying customers are fairly rigourous it would be possible for someone to impersonate your organization in a manner similar to phishing scams).
 
 From Coinbase Commerce's administrative interface you are able to review your donations and account balances, as well as initiate withdrawal of your donated crypto to other destinations.
@@ -242,7 +275,7 @@ As a hot wallet it is really important to create a strong, hard to guess passwor
 Redeeming Donations
 ---
 
-So, you've set up an account on Coinbase Commerce or published the addresses of another wallet that you control (see the Electronic Frontier Foundation for an [example](https://www.eff.org/pages/other-ways-give-and-donor-support)) and the donations are rolling in.
+So, you've set up an account on Coinbase Commerce or published the addresses of another wallet that you control (see the Electronic Frontier Foundation for an [example](https://www.eff.org/pages/other-ways-give-and-donor-support#crypto)) and the donations are rolling in.
 
 At this point its time to make a decision. If you're going to be issuing receipts for these donations you'll need to know the fiat value of the asset at the time of the donation. Thing is, unless you're holding a stablecoin it will likely fluctuate in value. It could be worth more than you issued the receipt for, or it could be worth less, same as any other asset donation.
 
@@ -270,7 +303,7 @@ Shapeshift is well known for turning one type of currency into another, but it i
 
 #### Binance and other Distributed Exchanges (DEX)
 
-Binance, Poloniex and the long tail of exchanges and again are likely only needed if you're trading in the more exotic currencies. 
+Binance, Poloniex and the long tail of exchanges again are likely only needed if you're trading in the more exotic currencies. 
 
 
 Crypto-philanthropy
@@ -319,7 +352,7 @@ Revision History
 
 1. July 2019 - skeleton outline
 2. December 2019 - first draft (no images yet)
-3. February 2020 - link to github / documentation site generator
+3. February 2020 - link to github / documentation site generator / images
 
 
 References
