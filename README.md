@@ -13,8 +13,6 @@ Changes made below (and eventually github once we publish it) will be automatica
 
 2020 [CivicTechYYC](https://CivicTechYYC.ca)
 
-(Visit the [Github Repository](https://github.com/CivicTechYYC/Blockchain-Donation-Guide) for this guide)
-
 ---
 
 Introduction
@@ -106,7 +104,7 @@ Feel free to come back to these topics when you're ready to know more :)
 
 **That said, if you're only interested in receiving Bitcoin**, you may want to consider [Coinberry Pay](https://help.coinberry.com/s/article/Coinberry-Pay). It is similar to Coinbase Commerce in many respects however Coinberry Pay will save you a step - once Bitcoin has been received it will automatically be converted to Canadian Dollars and can be deposited into a linked bank account.
 
-![750px-Coinberry_Pay](https://user-images.githubusercontent.com/2702107/79230890-8004af80-7e22-11ea-9ac1-706bf79ce31e.jpg =500x)
+![750px-Coinberry_Pay](https://user-images.githubusercontent.com/2702107/79230890-8004af80-7e22-11ea-9ac1-706bf79ce31e.jpg ':size=66%')
 
 *Fig. 6: Accepting Bitcoin via Coinberry Pay (Credit: coinberry.com)*
 
@@ -168,7 +166,7 @@ Here's a rundown of the current major currencies and/or 'token-based assets.'
 
 #### Bitcoin
 
-![750px-bitcoin-225080](https://user-images.githubusercontent.com/2702107/79513557-6077ad80-8001-11ea-8086-e8812481b51d.png =250x)
+![750px-bitcoin-225080](https://user-images.githubusercontent.com/2702107/79513557-6077ad80-8001-11ea-8086-e8812481b51d.png ':size=33%')
 
 *Fig. 13: The Bitcoin logo, just in case you haven't seen it before (Credit: Photo by Simon-3 on Pixabay)*
 
@@ -182,7 +180,7 @@ As the code for Bitcoin is open-source, many people have copied the code (a prac
 #### Ethereum
 
 
-![750px-ethereum-logo-landscape-purple da3e7402](https://user-images.githubusercontent.com/2702107/79173763-c1ab4100-7db5-11ea-8da6-293eb703709f.png =250x)
+![750px-ethereum-logo-landscape-purple da3e7402](https://user-images.githubusercontent.com/2702107/79173763-c1ab4100-7db5-11ea-8da6-293eb703709f.png ':size=33%')
 
 *Fig. 14: The Ethereum Logo. (Credit: ethereum.org)*
 
@@ -207,7 +205,7 @@ This relative instability, when coupled with wild pricing fluctuations have kept
 
 #### Stablecoins
 
-![750px-Logo_Dai](https://user-images.githubusercontent.com/2702107/79174267-5febd680-7db7-11ea-8470-a2373dd4371c.png =250x)
+![750px-Logo_Dai](https://user-images.githubusercontent.com/2702107/79174267-5febd680-7db7-11ea-8470-a2373dd4371c.png ':size=33%')
 
 *Fig. 15: Logo of the DAI Stablecoin. (Credit: makerdao.com)*
 
