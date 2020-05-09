@@ -29,11 +29,13 @@ As our level of commerce increased we realized it was a little difficult to hand
 
 
 ![serge-le-strat-1mvXkXi0MTk-unsplash](https://user-images.githubusercontent.com/2702107/74800593-2dc76800-5291-11ea-8bea-a5899576b36f.jpg)
+
 *Fig.2 The genuine article. We're sure of it. (Credit: Photo by Serge Le Strat on Unsplash)*
 
 And at a certain point, we all decided to stop fooling ourselves and not worry about whether the paper was a placeholder for the gold or not. The paper could just be its own thing, and as long as we all kept believing in the value of that paper everything would be alright.
 
 ![toy-cash-register-2922214_750](https://user-images.githubusercontent.com/2702107/74801098-cf02ee00-5292-11ea-84dd-f86fe5534353.jpg)
+
 *Fig.3 It's as real as we all believe. (Credit: Photo by annca on Pixabay)*
 
 Once having ascended the pyramid from survival to prosperity, at some point we seemingly decided what good was the paper? All we really needed was the information represented by the paper, and a bunch of authorities like nation states and/or central reserve banks reminding us to believe in the value of that information and to keep us honest. 
@@ -62,6 +64,7 @@ This guide is meant to be:
 This guide is for anyone looking for donations, but it is geared toward Canadian organizations with options for converting cryptocurrency to Canadian Dollars.
 
 ![kat-yukawa-K0E6E0a0R3A-unsplash](https://user-images.githubusercontent.com/2702107/74801433-cb239b80-5293-11ea-9847-11f686d3fda8.jpg)
+
 *Fig.4 Because yes, every 'bit' counts. (Credit: Photo by Kat Yukawa on Unsplash)*
 
 ### What this guide covers
@@ -104,7 +107,7 @@ Feel free to come back to these topics when you're ready to know more :)
 
 **That said, if you're only interested in receiving Bitcoin**, you may want to consider [Coinberry Pay](https://help.coinberry.com/s/article/Coinberry-Pay). It is similar to Coinbase Commerce in many respects however Coinberry Pay will save you a step - once Bitcoin has been received it will automatically be converted to Canadian Dollars and can be deposited into a linked bank account.
 
-![750px-Coinberry_Pay](https://user-images.githubusercontent.com/2702107/79230890-8004af80-7e22-11ea-9ac1-706bf79ce31e.jpg ':size=66%')
+![750px-Coinberry_Pay](https://user-images.githubusercontent.com/2702107/79230890-8004af80-7e22-11ea-9ac1-706bf79ce31e.jpg ':size=500')
 
 *Fig. 6: Accepting Bitcoin via Coinberry Pay (Credit: coinberry.com)*
 
@@ -114,6 +117,7 @@ What is a cryptocurrency?
 The first part of that word, 'crypto', refers to the principles of cryptography, meaning that information can be securely protected and provably unique. That's a big part of what we try to do with plain old-fashioned money; protect it from being stolen, and prove that it isn't counterfeit. 
 
 ![mauro-sbicego-4hfpVsi-gSg-unsplash](https://user-images.githubusercontent.com/2702107/74998437-f7672580-5415-11ea-9b53-2760ae49a5c2.jpg)
+
 *Fig. 7: The Enigma Machine, used to send encrypted messages back in World War II (Credit: Photo by Mauro Sbicego on Unsplash)*
 
 Cryptography is the same thing that secures our online purchases and makes sure that it is really difficult to eavesdrop on our iMessages. It is based on the idea that two endpoints of a connection are talking in a 'secret code' that only they can understand, and that the endpoints don't need to previously know each other in order to keep that conversation secure. It works on the concept of [public and private keys](https://www.reddit.com/r/explainlikeimfive/comments/tpqjo/eli5_can_someone_please_explain_how_encryption/).
@@ -121,6 +125,7 @@ Cryptography is the same thing that secures our online purchases and makes sure 
 When you use the internet to transfer money in the regular way, the conversation between the payer and the payee is conducted with an encrypted secret code, but the record of that transaction is only held with (and entrusted to) a third party; the bank or the payment processing company that brokered the connection. The authority in this case holds the keys, making sure that you are who you say you are, and that you actually have the balance on your credit card to do the transaction. Other groups also jump in to act as escrows sometimes, like when you buy something off eBay and want to make sure the deal is fair and square.
 
 ![erik-mclean-XaDHSBXuVBc-unsplash](https://user-images.githubusercontent.com/2702107/74998996-95a7bb00-5417-11ea-8982-c744911c50d2.jpg)
+
 *Fig. 8: Centralized servers are kind of like wagon wheels - everything has to pass through the hub (Credit: Photo by Erik Mclean on Unsplash)*
 
 Cryptocurrencies change the game.
@@ -134,11 +139,13 @@ In this way there:
 * is a record of all transactions made in that currency, and, being available to all, and being based in cryptography, makes it very hard to cheat the system and 'double-spend' the currency (Don Tapscott equates this challenge to trying to turn a McNugget back into a chicken[^2]).
 
 ![ricardo-gomez-angel-z6CcN8rlftY-unsplash](https://user-images.githubusercontent.com/2702107/75003089-de657100-5423-11ea-989a-a08ad40ebe44.jpg)
+
 *Fig. 9: Decentralized Networks - less like a wagon wheel, more like a mesh (Credit: Photo by Ricardo Gomez Angel on Unsplash)*
 
 Different cryptocurrencies have different ways of accomplishing this, but they almost all designed around the concept of a 'blockchain', where each new addition to the chain is based on the one before. Anders Brownworth provides a terrific [video example](https://anders.com/blockchain/) and hands-on demo of the principle at work.
 
 ![Blockchain_Demo-Anders_Brownworth](https://user-images.githubusercontent.com/2702107/75121292-ebff3e80-564f-11ea-974a-61f9b130c5aa.jpg)
+
 *Fig. 10: Interactive Blockchain Demo by Anders Brownworth (Credit: Anders Brownworth)*
 
 The underlying source code for the network nodes is usually open source and freely available for anyone to view, contribute, and transform into other projects. The blockchains themselves are also publicly viewable through 'blockchain explorers' - here's an [explorer for Bitcoin](https://live.blockcypher.com/btc/). 
@@ -146,11 +153,13 @@ The underlying source code for the network nodes is usually open source and free
 Because identical records exist across all the participating nodes in the network, Blockchain projects are also sometimes generically described as 'distributed ledger' technologies. 
 
 ![ledger-1428230_1280](https://user-images.githubusercontent.com/2702107/74999890-09e35e00-541a-11ea-8829-2bda2fa8bea3.jpg)
+
 *Fig. 11: Distributed Ledger Technology - everyone has a copy, with the exact same info, updated simultaneously (Credit: Photo by cspastrik on Pixabay)*
 
 The most well-known way for information to be added to this ledger is by all the computers in a particular blockchain network competing to solve a hard mathematical problem. People participating in this 'Proof of Work' are rewarded with new units of the currency. This process, called 'mining,' is relatively slow, energy-intensive and the subject of some scrutiny for its environmental footprint. Often there are small fees associated with blockchain transactions that are also shared among the miners.  
 
 ![750px-Cryptocurrency_Mining_Farm](https://user-images.githubusercontent.com/2702107/75121551-53b68900-5652-11ea-8f2b-864d2a1b45ca.jpg)
+
 *Fig. 12: A cryptocurrency mining farm. That's a lot of electricity. (Credit: Photo by Marco Krohn on Wikimedia Commons via [Creative Commons Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en))*
 
 But not all cryptocurrencies are the same. Many cryptocurrencies have implemented alternatives to Proof of Work, and as stores or signifiers of value, have taken the form of assets beyond just 'money.' 
@@ -166,7 +175,7 @@ Here's a rundown of the current major currencies and/or 'token-based assets.'
 
 #### Bitcoin
 
-![750px-bitcoin-225080](https://user-images.githubusercontent.com/2702107/79513557-6077ad80-8001-11ea-8086-e8812481b51d.png ':size=33%')
+![750px-bitcoin-225080](https://user-images.githubusercontent.com/2702107/79513557-6077ad80-8001-11ea-8086-e8812481b51d.png ':size=250')
 
 *Fig. 13: The Bitcoin logo, just in case you haven't seen it before (Credit: Photo by Simon-3 on Pixabay)*
 
@@ -180,7 +189,7 @@ As the code for Bitcoin is open-source, many people have copied the code (a prac
 #### Ethereum
 
 
-![750px-ethereum-logo-landscape-purple da3e7402](https://user-images.githubusercontent.com/2702107/79173763-c1ab4100-7db5-11ea-8da6-293eb703709f.png ':size=33%')
+![750px-ethereum-logo-landscape-purple da3e7402](https://user-images.githubusercontent.com/2702107/79173763-c1ab4100-7db5-11ea-8da6-293eb703709f.png ':size=250')
 
 *Fig. 14: The Ethereum Logo. (Credit: ethereum.org)*
 
@@ -205,7 +214,7 @@ This relative instability, when coupled with wild pricing fluctuations have kept
 
 #### Stablecoins
 
-![750px-Logo_Dai](https://user-images.githubusercontent.com/2702107/79174267-5febd680-7db7-11ea-8470-a2373dd4371c.png ':size=33%')
+![750px-Logo_Dai](https://user-images.githubusercontent.com/2702107/79174267-5febd680-7db7-11ea-8470-a2373dd4371c.png ':size=250')
 
 *Fig. 15: Logo of the DAI Stablecoin. (Credit: makerdao.com)*
 
@@ -262,6 +271,7 @@ Hot wallets pose the relatively highest risk of compromise either through break-
 The security of a hot wallet is dependent on the practices of whoever is hosting your wallet and controlling your private keys, whether that's an online crypto-exchange, or whether it's you through your desktop or mobile app.
 
 ![750px-freewallet](https://user-images.githubusercontent.com/2702107/79184324-085a6480-7dd1-11ea-80cf-b0d8992298e0.jpg)
+
 *Fig. 16: A mobile app-based hot wallet. (Credit: freewallet.org)*
 
 There are some interesting variations emerging called 'non-custodial wallets' that are internet-based AND you control the keys, however the safest practice is likely to avoid using a hot wallet for long term 'storage' of your currency, and to transfer to a cold wallet (or fiat currency) as soon as possible.
@@ -281,6 +291,7 @@ Hardware wallets typically take the form of a USB key that is protected by some 
 Paper wallets are regarded by some as the safest form of cold storage. It basically involves includes printing out your public and private keys on a piece of paper (usually as QR codes) which you can store and save in a secure place. It's generally regarded as safer because all you need to do is not lose that piece of paper. Uh, yeah. Speaking from experience that's harder than it sounds, but on the other hand, there's no risk of hacking or malware.[^9]
 
 ![750px-Paper_Wallet](https://user-images.githubusercontent.com/2702107/79281942-1b247600-7e71-11ea-808b-ee32629e1e2c.jpg)
+
 *Fig. 17: A Bitcoin paper wallet. (Credit: bitcoinpaperwallet.com)*
 
 
