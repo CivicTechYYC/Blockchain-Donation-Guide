@@ -81,7 +81,7 @@ According to cryptogiving.ca "Many charities in Canada that accept donations of 
 
 From a donor's perspective, Cryptogiving.ca goes on to note that cryptocurrencies are not exempt from capital gains taxes when those gains are given to charity. A private members bill was introduced in Canadian Parliament in May 2019 to address this but it did not pass.[^1]
 
-If you would like to contribute research in this area feel free to sign in and edit on HackMD, submit a Pull Request on GitHub, or just get in touch via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdIwUPWLg7bLb7NGEPpNsPOnyclKPJrP7POGu0Z4TssczyQXQ/viewform?usp=sf_link).
+If you would like to contribute research in this area feel free to create and Issue or submit a Pull Request on GitHub, or just get in touch via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdIwUPWLg7bLb7NGEPpNsPOnyclKPJrP7POGu0Z4TssczyQXQ/viewform?usp=sf_link).
 
 #### Distributed Apps
 
@@ -175,7 +175,7 @@ Here's a rundown of the current major currencies and/or 'token-based assets.'
 
 #### Bitcoin
 
-![750px-bitcoin-225080](https://user-images.githubusercontent.com/2702107/79513557-6077ad80-8001-11ea-8086-e8812481b51d.png ':size=250')
+![750px-bitcoin-225080](https://user-images.githubusercontent.com/2702107/79513557-6077ad80-8001-11ea-8086-e8812481b51d.png ':size=250x96')
 
 *Fig. 13: The Bitcoin logo, just in case you haven't seen it before (Credit: Photo by Simon-3 on Pixabay)*
 
@@ -189,7 +189,7 @@ As the code for Bitcoin is open-source, many people have copied the code (a prac
 #### Ethereum
 
 
-![750px-ethereum-logo-landscape-purple da3e7402](https://user-images.githubusercontent.com/2702107/79173763-c1ab4100-7db5-11ea-8da6-293eb703709f.png ':size=250')
+![750px-ethereum-logo-landscape-purple da3e7402](https://user-images.githubusercontent.com/2702107/79173763-c1ab4100-7db5-11ea-8da6-293eb703709f.png ':size=250x63')
 
 *Fig. 14: The Ethereum Logo. (Credit: ethereum.org)*
 
@@ -214,7 +214,7 @@ This relative instability, when coupled with wild pricing fluctuations have kept
 
 #### Stablecoins
 
-![750px-Logo_Dai](https://user-images.githubusercontent.com/2702107/79174267-5febd680-7db7-11ea-8470-a2373dd4371c.png ':size=250')
+![750px-Logo_Dai](https://user-images.githubusercontent.com/2702107/79174267-5febd680-7db7-11ea-8470-a2373dd4371c.png ':size=250x117')
 
 *Fig. 15: Logo of the DAI Stablecoin. (Credit: makerdao.com)*
 
