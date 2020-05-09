@@ -11,7 +11,7 @@ Changes made below (and eventually github once we publish it) will be automatica
 # Every Bit Counts: Accepting Cryptocurrency Donations
 *Helping charities and non-profits understand and accept Bitcoin, Ethereum, and other token-based assets*
 
-2020 [CivicTechYYC](https://CivicTechYYC.ca)
+A [CivicTechYYC](https://CivicTechYYC.ca) Blockchain Experiment
 
 ---
 
@@ -429,7 +429,9 @@ Revision History
 2. December 2019 - first draft (no images yet)
 3. February 2020 - link to github / documentation site generator / images
 4. April 2020 - include info on Coinberry/non-custodial wallets/DeFi and more images
-5. May 2020 - more images, note on DAI 
+5. May 2020 - v1.0 (with more images, note on DAI) 
+
+(For more a more detailed history view the [Github Repository](https://github.com/CivicTechYYC/Blockchain-Donation-Guide))
 
 
 References
