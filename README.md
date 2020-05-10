@@ -1,10 +1,8 @@
 <!-- Hey y'all! 
 
-This is a collaborative editor, like Google Docs but different. It uses 'Markdown' Syntax - for formatting use the buttons on the toolbar, and if you're interested to know more about how Markdown works check out this link: https://www.markdownguide.org/basic-syntax/ 
+This file uses 'Markdown' Syntax - if you're interested to know more about how Markdown works check out this link: https://www.markdownguide.org/basic-syntax/ 
 
-The benefit of doing the document in Markdown is that it can be published to github and turned into a fancy lookin' website using a modern static site generator like Gatsby or Read the Docs - the content and the presentation are always separate.
-
-Changes made below (and eventually github once we publish it) will be automatically tracked.
+The benefit of doing the document in Markdown is that it can be published to github and turned into a fancy lookin' website using a modern site generator like Gatsby or docsify - the content and the presentation are always separate.
 
 -->
 
@@ -12,6 +10,8 @@ Changes made below (and eventually github once we publish it) will be automatica
 *Helping charities and non-profits understand and accept Bitcoin, Ethereum, and other token-based assets*
 
 A [CivicTechYYC](https://CivicTechYYC.ca) Blockchain Experiment
+
+(licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0)
 
 ---
 
@@ -81,7 +81,7 @@ According to cryptogiving.ca "Many charities in Canada that accept donations of 
 
 From a donor's perspective, Cryptogiving.ca goes on to note that cryptocurrencies are not exempt from capital gains taxes when those gains are given to charity. A private members bill was introduced in Canadian Parliament in May 2019 to address this but it did not pass.[^1]
 
-If you would like to contribute research in this area feel free to create and Issue or submit a Pull Request on GitHub, or just get in touch via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdIwUPWLg7bLb7NGEPpNsPOnyclKPJrP7POGu0Z4TssczyQXQ/viewform?usp=sf_link).
+If you would like to contribute research in this area feel free to create an Issue or submit a Pull Request on GitHub, or just get in touch via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdIwUPWLg7bLb7NGEPpNsPOnyclKPJrP7POGu0Z4TssczyQXQ/viewform?usp=sf_link).
 
 #### Distributed Apps
 
@@ -107,7 +107,7 @@ Feel free to come back to these topics when you're ready to know more :)
 
 **That said, if you're only interested in receiving Bitcoin**, you may want to consider [Coinberry Pay](https://help.coinberry.com/s/article/Coinberry-Pay). It is similar to Coinbase Commerce in many respects however Coinberry Pay will save you a step - once Bitcoin has been received it will automatically be converted to Canadian Dollars and can be deposited into a linked bank account.
 
-![750px-Coinberry_Pay](https://user-images.githubusercontent.com/2702107/79230890-8004af80-7e22-11ea-9ac1-706bf79ce31e.jpg ':size=500')
+![750px-Coinberry_Pay](https://user-images.githubusercontent.com/2702107/79230890-8004af80-7e22-11ea-9ac1-706bf79ce31e.jpg ':size=500x500')
 
 *Fig. 6: Accepting Bitcoin via Coinberry Pay (Credit: coinberry.com)*
 
@@ -421,6 +421,8 @@ Contributors
 
 <!-- Use github handle -->
 [@chado1](https://github.com/chado1)
+
+This page is generated from Markdown with [docsify](https://docsify.js.org/).
 
 Revision History
 ---
