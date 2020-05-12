@@ -136,7 +136,7 @@ In this way there:
 
 * is no single point of failure;
 * is no middle-person collecting fees or delaying the transaction (ever try to send money or get paid from a bank in another country? It's not fun); and,
-* is a record of all transactions made in that currency, and, being available to all, and being based in cryptography, makes it very hard to cheat the system and 'double-spend' the currency (Don Tapscott equates this challenge to trying to turn a McNugget back into a chicken[^2]).
+* is a record of all transactions made in that currency. Being available to all and based in cryptography makes it very hard to cheat the system and 'double-spend' the currency (Don Tapscott equates this challenge to trying to turn a McNugget back into a chicken[^2]).
 
 ![ricardo-gomez-angel-z6CcN8rlftY-unsplash](https://user-images.githubusercontent.com/2702107/75003089-de657100-5423-11ea-989a-a08ad40ebe44.jpg)
 
@@ -166,7 +166,7 @@ But not all cryptocurrencies are the same. Many cryptocurrencies have implemente
 
 ### What else are they good for?
 
-In fact, because they're just tokens, they can represent anything. Sometimes tokens can represent shares in a company (aka a 'Security Token', sometimes they represent votes or membership in a club or group (called 'Utility Tokens', or a certificate of ownership for a one-of-a-kind real or digital thing (a 'Non-fungible Token'). 
+In fact, because they're just tokens, they can represent anything. Sometimes tokens can represent shares in a company (aka a 'Security Token', sometimes they represent votes or membership in a club or group (called 'Utility Tokens'), or a certificate of ownership for a one-of-a-kind real or digital thing (a 'Non-fungible Token'). 
 
 
 ### What are some better known Token-Based Assets?
